@@ -15,7 +15,8 @@ public class Reclamation {
     private String contenu;
     private int id_client;
     
-    public Reclamation() {
+    public Reclamation()
+    {
     }
 
     public int getId_client() {

@@ -3,9 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/youssef/Documents/NetBeansProjects/Pidev/src/bestdeal/gui/ReclamationGUI.java</file>
+            <file>file:/C:/Users/youssef/Documents/NetBeansProjects/Pidev/src/bestdeal/gui/test.java</file>
+            <file>file:/C:/Users/youssef/Documents/NetBeansProjects/Pidev/src/bestdeal/entites/Mail.java</file>
+            <file>file:/C:/Users/youssef/Documents/NetBeansProjects/Pidev/src/bestdeal/dao/ClientDAO.java</file>
+            <file>file:/C:/Users/youssef/Documents/NetBeansProjects/Pidev/src/bestdeal/dao/VoucherDAO.java</file>
+            <file>file:/C:/Users/youssef/Documents/NetBeansProjects/Pidev/src/bestdeal/entites/Panier.java</file>
+            <file>file:/C:/Users/youssef/Documents/NetBeansProjects/Pidev/src/bestdeal/dao/AdministrateurDAO.java</file>
+            <file>file:/C:/Users/youssef/Documents/NetBeansProjects/Pidev/src/bestdeal/gui/RatingDeal.java</file>
+            <file>file:/C:/Users/youssef/Documents/NetBeansProjects/Pidev/src/bestdeal/dao/MailConstructionDAO.java</file>
             <file>file:/C:/Users/youssef/Documents/NetBeansProjects/Pidev/src/bestdeal/dao/ReclamationDAO.java</file>
-            <file>file:/C:/Users/youssef/Documents/NetBeansProjects/Pidev/src/bestdeal/util/MyConnection.java</file>
+            <file>file:/C:/Users/youssef/Documents/NetBeansProjects/Pidev/src/bestdeal/gui/NotificationPopup.java</file>
+            <file>file:/C:/Users/youssef/Documents/NetBeansProjects/Pidev/src/bestdeal/entites/Voucher.java</file>
+            <file>file:/C:/Users/youssef/Documents/NetBeansProjects/Pidev/src/bestdeal/dao/VendeurDAO.java</file>
+            <file>file:/C:/Users/youssef/Documents/NetBeansProjects/Pidev/src/bestdeal/gui/MailJframe.java</file>
             <file>file:/C:/Users/youssef/Documents/NetBeansProjects/Pidev/src/bestdeal/entites/Reclamation.java</file>
         </group>
     </open-files>
